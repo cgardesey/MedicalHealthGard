@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".activity.UpdatePasswordActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <EditText
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/oldPassword"
+            android:minWidth="128dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Old Password"/>
+        <EditText
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/newPassword"
+            android:minWidth="128dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="New Password"/>
+        <EditText
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/confirmPassword"
+            android:minWidth="128dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="New Password"/>
+
+        <Button
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@+id/UpdatePassword"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="32dp"
+            android:text="  Update Password  "
+
+            android:background="@drawable/rounded_button"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2a9c04</color>
+    <color name="colorPrimaryDark">#186002</color>
+    <color name="colorAccent">#214e01</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <!-- the activated state color for a forecast list item -->
+    <color name="activated">#80E0E0E0</color>
+
+    <color name="list_item_selected_state">#E3F2FD</color>
+    <color name="list_item_normal_state">#80E0E0E0</color>
+
+    <color name="gray">#333</color>
+
+    <color name="transparent">#0FFF</color>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+
+    android:alpha="0.8"
+    android:background="@drawable/brunette_female_doc"
+    tools:context=".activity.HealthProfActivity"
+    android:orientation="vertical"
+    android:layout_gravity="center">
+    <Button
+        android:layout_marginTop="32dp"
+        android:id="@+id/doctor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:background="@drawable/rounded_edge_button"
+        android:text="I am a doctor"
+        android:textColor="@color/white" />
+    <Button
+        android:layout_marginTop="16dp"
+        android:id="@+id/labTech"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:background="@drawable/rounded_edge_button"
+        android:text="I am lab technologist"
+        android:layout_marginBottom="64dp"
+        android:textColor="@color/white" />
+
+</LinearLayout>

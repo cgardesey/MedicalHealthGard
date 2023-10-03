@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="title_arrays2">
+        <item>None selected</item>
+        <item>Prof.</item>
+        <item>Dr.</item>
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Miss</item>
+    </array>
+
+    <array name="bloodgroup_arrays">
+        <item>None selected</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </array>
+    <array name="sickecell_arrays">
+        <item>None selected</item>
+        <item>AA</item>
+        <item>AS</item>
+        <item>SS</item>
+    </array>
+    <array name="group_type_arrays">
+        <item>None selected</item>
+        <item>Individual</item>
+        <item>Family</item>
+        <item>Company</item>
+    </array>
+    <array name="flow_arrays">
+        <item>None selected</item>
+        <item>Heavy</item>
+        <item>Painful </item>
+        <item>Irregular </item>
+        <item>Missed </item>
+    </array>
+    <array name="pain_arrays">
+        <item>None selected</item>
+        <item>Yes</item>
+        <item>No </item>
+    </array>
+    <array name="gestation_arrays">
+        <item>None selected</item>
+        <item>Twins</item>
+        <item>Triplets</item>
+        <item>Quadruplets</item>
+        <item>Quintuplets</item>
+        <item>Sextuplets</item>
+        <item>Septuplets</item>
+        <item>Octuplets</item>
+        <item>Nonuplets</item>
+        <item>Decuplets</item>
+    </array>
+    <array name="ph_arrays">
+        <item>None selected</item>
+        <item>DM</item>
+        <item>HTN</item>
+        <item>SCD</item>
+    </array>
+    <array name="fh_arrays">
+        <item>None selected</item>
+        <item>DM</item>
+        <item>AST</item>
+    </array>
+    <!--<string-array name="marital_arrays">-->
+        <!--<item>None selected</item>-->
+        <!--<item>Single</item>-->
+        <!--<item>Married</item>-->
+        <!--<item>Divorced</item>-->
+        <!--<item>Widowed</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="gender_arrays">-->
+        <!--<item>None selected</item>-->
+        <!--<item>Male</item>-->
+        <!--<item>Female</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="education_arrays">-->
+        <!--<item>None selected</item>-->
+        <!--<item>Basic</item>-->
+        <!--<item>Secondary</item>-->
+        <!--<item>Vocational/Technical</item>-->
+        <!--<item>Bachelors Degree</item>-->
+        <!--<item>Post Graduate</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="phone_arrays">-->
+        <!--<item>None selected</item>-->
+        <!--<item>Personal</item>-->
+        <!--<item>Work</item>-->
+        <!--<item>Home</item>-->
+        <!--<item>Other</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="employ_arrays">-->
+        <!--<item>None selected</item>-->
+        <!--<item>UnEmployed</item>-->
+        <!--<item>Self-Employed</item>-->
+        <!--<item>Employed</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="experience_arrays">-->
+        <!--<item>None selected</item>-->
+        <!--<item>0-2 Years</item>-->
+        <!--<item>3-5 Years</item>-->
+        <!--<item>6+ Years</item>-->
+    <!--</string-array>-->
+    <!--<string-array name="services_arrays">-->
+        <!--<item>Select service</item>-->
+        <!--<item>Transportiation</item>-->
+        <!--<item>Car Mechanic</item>-->
+        <!--<item>Health Care</item>-->
+    <!--</string-array>-->
+</resources>
