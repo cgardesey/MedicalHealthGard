@@ -8,7 +8,21 @@ MedicalHealthGard is a mobile application designed to assist doctors in keeping 
 - **Patient Profile**: Maintain detailed profiles for each patient, including personal information, medical history, and contact details.
 - **Medical Notes**: Create and update medical notes for each patient visit, including symptoms, diagnosis, prescriptions, and treatment plans.
 - **Data Backup and Sync**: Automatic backup and synchronization of patient records to ensure data integrity across devices.
+![Screenshot_20231012_141208_Medical Health Guard](https://github.com/cgardesey/MedicalHealthGard/assets/10109354/2a3c0d0d-96b8-4b14-862c-e81bbad018f0)
+![Screenshot_20231012_141154_Medical Health Guard](https://github.com/cgardesey/MedicalHealthGard/assets/10109354/ab09921b-3208-4be3-add7-ceba73558292)
 
+## Screenshots
+<img src="https://github.com/cgardesey/MedicalHealthGard/assets/10109354/59fe2747-106e-4c1d-8859-48933295e324" width="250" alt="Screenshot 1">
+<img src="https://github.com/cgardesey/MedicalHealthGard/assets/10109354/800336ae-57ae-4096-b0c2-46f66c0e4874" width="250" alt="Screenshot 2">
+<img src="" width="250" alt="Screenshot 3">
+<img src="" width="250" alt="Screenshot 4">
+<img src="" width="250" alt="Screenshot 5">
+<img src="" width="250" alt="Screenshot 6">
+<img src="" width="250" alt="Screenshot 7">
+<img src="" width="250" alt="Screenshot 8">
+<img src="" width="250" alt="Screenshot 9">
+<img src="" width="250" alt="Screenshot 10">
+<img src="" width="250" alt="Screenshot 11">
 
 ## Getting Started
 
